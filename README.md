@@ -1,4 +1,4 @@
-# linktree-free
+# LinkBio
 ## Ferramenta de link para bios, como o Linktree
 
 
